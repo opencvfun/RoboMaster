@@ -1,4 +1,8 @@
 # RoboMaster
+
+
+Modified BSD License
+====================
 _Copyright © `<2017>`, `<Wong Tzuchiang>`_  
 _All rights reserved._
 
