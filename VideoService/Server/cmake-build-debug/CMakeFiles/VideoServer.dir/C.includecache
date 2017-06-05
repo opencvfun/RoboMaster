@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/parallels/RoboMaster/VideoService/Server/v4l2uvc.c
+stdlib.h
+-
+v4l2uvc.h
+/home/parallels/RoboMaster/VideoService/Server/v4l2uvc.h
+
+/home/parallels/RoboMaster/VideoService/Server/v4l2uvc.h
+stdio.h
+-
+string.h
+-
+fcntl.h
+-
+unistd.h
+-
+errno.h
+-
+sys/ioctl.h
+-
+sys/mman.h
+-
+sys/select.h
+-
+linux/videodev2.h
+-
+
